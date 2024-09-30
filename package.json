@@ -21,7 +21,7 @@
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
-    "@gilbarbara/components": "^0.11.2",
+    "@gilbarbara/components": "^0.14.0",
     "@gilbarbara/helpers": "^0.9.2",
     "@reduxjs/toolkit": "^2.1.0",
     "react": "^18.2.0",
