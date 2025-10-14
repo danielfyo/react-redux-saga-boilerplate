@@ -25,7 +25,7 @@
     "@gilbarbara/helpers": "^0.9.2",
     "@reduxjs/toolkit": "^2.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-error-boundary": "^4.0.12",
     "react-helmet-async": "^2.0.4",
     "react-inlinesvg": "^4.1.1",
